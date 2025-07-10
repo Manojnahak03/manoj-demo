@@ -1,2 +1,3 @@
-# manoj-demo
-This is My Git Repository
+# Manoj-demo
+This is First My Git Repository
+Author - Manoj Nahak
